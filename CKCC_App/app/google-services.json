@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808574381592",
+    "firebase_url": "https://ckccapp-3d1fd.firebaseio.com",
+    "project_id": "ckccapp-3d1fd",
+    "storage_bucket": "ckccapp-3d1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808574381592:android:5c128f71bbc430b4",
+        "android_client_info": {
+          "package_name": "com.example.smile.ckcc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808574381592-9194m812ncuji9kek4eka2mo56jqvpqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smile.ckcc_app",
+            "certificate_hash": "3bba8a6c726c4de5e90853aaef47eeb1604fa6a6"
+          }
+        },
+        {
+          "client_id": "808574381592-itq9pbgclh5k2uts8tjt8preuf3goqn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-lf9QkycgmI2v3JVDB6BIwaGTBBN1vE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808574381592-itq9pbgclh5k2uts8tjt8preuf3goqn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

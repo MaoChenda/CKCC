@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">RUPP Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="school_name">Royal University of Phnom Penh</string>
+    <string name="googlemap_api_key">AIzaSyDg024RfkL9WLUxEyVUlNq62VaIzLwArXg</string>
+
+    <!-- Strings related to login -->
+    <string name="hint_name">Student name</string>
+    <string name="no_acc">Do not have account?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_com_pass">Comfirm password</string>
+    <string name="hint_email">Student Email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="success_message">Registeration Successful</string>
+    <string name="error_pass_match">Passwords does not matches</string>
+    <string name="field_cannot_null">Fields cannot null</string>
+    <string name="error_login">User ID or password incorrect</string>
+    <string name="title_activity_navigation_drawer">RUPP Mobile App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="card_setting">App Setting</string>
+    <string name="card_events">School Events</string>
+    <string name="card_scholarship">Scholarship</string>
+    <string name="card_about">About School</string>
+    <string name="card_contact">Contact School</string>
+    <string name="mission_statement1">
+        1. Building competency (knowledge, skills, values, and attitudes) for students in all education and training programs and equipping them with entrepreneurship skills, innovation skills, cross-cultural competence, and employability skills;
+     </string>
+    <string name="mission_statement2">
+        2. Becoming a center of excellence for language learning and information and communication technology (ICT);
+    </string>
+    <string name="mission_statement3">
+        3. Becoming a leading institution for Social Science and Humanities and STEM (science, technology, engineering and mathematics) education;
+    </string>
+    <string name="mission_statement4">
+        4. Enhancing research and development in all graduate programs;
+    </string>
+    <string name="mission_statement5">
+        5. Becoming the leading institution for the provision of high-quality research, consultancy and community service;
+    </string>
+    <string name="mission_statement6">
+        6. Becoming a center of good governance in which all administrative and financial services will be accountable, transparent, and participatory to students, staff members and stakeholders.
+    </string>
+    <string name="goals1">
+        1. Enhance teaching staff and middle-level administrative staff to hold at least master’s degrees with both English and ICT competence;
+    </string>
+    <string name="goals2">
+        2. Be an established center for high-quality research and publications;
+    </string>
+    <string name="goals3">
+        3. Increase graduate programs and enhance academic freedom;
+    </string>
+    <string name="goals4">
+        4. Increase the number of international students in all types of courses;
+    </string>
+    <string name="goals5">
+        5.  Enhance student and faculty exchange with universities in the ASEAN University Network (AUN) and other partner universities, including services provided to development partners and civil society organizations;
+    </string>
+    <string name="goals6">
+        6. Promote integrity and a sense of belonging and ownership among students, faculty and staff;
+    </string>
+    <string name="goals7">
+        7. Ensure a safe and sound teaching and learning environment;
+    </string>
+    <string name="goals8">
+        8. Provide free information technology (IT) support and internet access to all students and staff;
+    </string>
+    <string name="goals9">
+        9. Become a resource center for teaching/learning, research and community service;
+    </string>
+    <string name="goals10">
+        10. Mainstream quality assurance and evaluation mechanisms in all departments and programs.
+    </string>
+    <string name="introduction1">
+        The Royal University of Phnom Penh (RUPP) is Cambodia’s oldest and one of the largest public universities. It hosts more than 12,000 scholarship and full-fee paying students, across a diverse range
+        of undergraduate and postgraduate programs. It is unique in Cambodia for offering specialist degrees in fields including the sciences, humanities and social sciences, as well as professional degrees
+        in fields such as information technology, electronics, psychology, social work, and tourism. RUPP also provides Cambodia’s foremost degree-level language programs through the Institute of Foreign Languages.
+        Due to its many achievements, RUPP has full membership of the ASEAN University Network (AUN).
+    </string>
+    <string name="introduction2">
+        RUPP has over 450 full-time staff. All of its 335 academic staff members hold tertiary qualifications, including 15 PhDs and 280 Masters degrees. They are supported by over 120 administrative and maintenance
+        staff. In addition, the university maintains links with Cambodian and international NGOs, local and international universities and government ministries. As a result, various international and non-government
+        organizations and government offices regularly contribute adjunct faculty members to help expand RUPP’s capacity.
+    </string>
+    <string name="introduction3">
+        RUPP is located on three spacious campuses. The main campus lies roughly five kilometers from the center of Phnom Penh. Adjoining the main campus is the Institute of Foreign Languages, which boasts peaceful
+        landscaping features alongside its modern architecture. Roughly one kilometer further from town lies RUPP Campus II, in which the departments of History, Sociology and Philosophy reside.
+    </string>
+    <string name="vision">
+        To become Cambodia’s flagship university in teaching, research and community services.
+    </string>
+    <string name="vision_title">VISION</string>
+    <string name="mision_title">MISSION STATEMENT</string>
+    <string name="introduction_title">INTRODUCTION</string>
+    <string name="night_mode_hint">
+        Once your switch is on, your app backgroun will trun into black backgound.
+    </string>
+    <string name="languages_hint">
+        You can change your language into Khmer or English.
+    </string>
+    <string name="notifications_hint">
+         Once your switch is on, your app will not receives any notifications anymore.
+    </string>
+    <string name="play_intro_hint">
+        Click here to show a brief introduction to our application.
+    </string>
+    <string name="txt_guide_change_profile">
+        Click image to change your profile photo
+    </string>
+
+</resources>
